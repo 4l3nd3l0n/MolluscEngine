@@ -3,5 +3,5 @@
 
 ![Mollusc](https://github.com/al3nd3l0n/MolluscEngine/blob/main/mollusc_logo.png)
 
-<h1 align="center"> 3D Game Engine </h1>
+<h3 align="center"> 3D Game Engine </h3>
 
