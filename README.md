@@ -4,9 +4,9 @@
 
 ![Mollusc](https://github.com/al3nd3l0n/MolluscEngine/assets/139048689/01ed5937-c77b-4f3c-a67e-4bd1146c5af0)
 
-<p align="center">
+<h align="center">
 <img src="https://github.com/al3nd3l0n/MolluscEngine/blob/main/Squid.png" alt="Logo />
-    </p>
+</h>
 
 3D game engine
 Simple 3D Game Engine. 
