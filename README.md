@@ -3,9 +3,9 @@
 
 
 
-<h align="center">
+<p align="center">
 <img src="https://github.com/al3nd3l0n/MolluscEngine/blob/main/Squid.png" alt="Logo />
-</h>
+</p>
 
 3D game engine
 Simple 3D Game Engine. 
