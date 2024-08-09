@@ -5,7 +5,5 @@
 
 <h3 align="center"> 3D Game Engine
 
-DX11 support
-
 </h3>
 
