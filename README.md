@@ -8,5 +8,5 @@
 </h3>
 
 ### Libraries used
--Dear ImGui
--ImGuizmo
+- Dear ImGui
+- ImGuizmo
