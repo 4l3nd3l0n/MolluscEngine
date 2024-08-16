@@ -7,3 +7,6 @@
 
 </h3>
 
+### Libraries used
+-Dear ImGui
+-ImGuizmo
