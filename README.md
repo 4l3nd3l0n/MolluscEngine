@@ -10,3 +10,4 @@
 ### Libraries used
 - Dear ImGui
 - ImGuizmo
+- Assimp
