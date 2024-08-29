@@ -11,3 +11,4 @@
 - Dear ImGui
 - ImGuizmo
 - Assimp
+- DirectXTex
